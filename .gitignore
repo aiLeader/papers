@@ -1,0 +1,4 @@
+# ignore Explorer and Finder database files.
+Desktop.ini
+.DS_Store
+
